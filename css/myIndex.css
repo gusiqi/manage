@@ -1,0 +1,46 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.treeOprate{
+    padding: 15px;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.userManageCon{
+    width: 100%;
+}
+
+.conPadding{
+	margin-top:25px;
+	padding:0 25px 0 15px; 
+}
+
+.buttonCenter{
+	text-align: center;
+}
+
+.displayNone{
+	display: none;
+}
+
+
+.treeSet{
+	height: 100%;
+	overflow: hidden;
+}
+
+.demoTree{
+	overflow-y: auto;
+}
+
+.buttonBottom{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+.cursorPointer{
+	cursor: pointer;
+}
